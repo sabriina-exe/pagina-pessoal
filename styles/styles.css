@@ -1,0 +1,47 @@
+html {
+  font-size: 25px;
+  font-family: "Pixelify Sans", sans-serif;
+  background-color: rgb(160, 85, 230);
+  color: #f9deff
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #f9deff;
+  margin: 0;
+  padding: 20px 0; 
+  text-shadow: 5px 5px 3px black;
+
+}
+
+h2 {
+  color: #f9deff;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 1% auto;
+  background-color: rgb(70, 30, 108);
+  padding: 0 20px 20px 20px;
+  border: 5px solid #34173b;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid #f9deff
+}
+
+a {
+  color: palevioletred
+}
